@@ -1,2 +1,2 @@
 # Memoria
-Administrador de memoria
+Administrador de Memoria
